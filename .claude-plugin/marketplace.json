@@ -11,6 +11,7 @@
   "plugins": [
     {
       "name": "sidecourt",
+      "displayName": "SideCourt",
       "source": "./",
       "version": "1.0.0",
       "description": "Work on your own SideCourt posts without leaving your editor: save a work or a request straight from what you just built, edit private drafts, read replies and help offers, and submit for review when you say so. It never publishes.",
@@ -21,7 +22,14 @@
       "repository": "https://github.com/m1nga/sidecourt-plugin",
       "license": "MIT",
       "category": "productivity",
-      "keywords": ["sidecourt", "publishing", "drafts", "portfolio", "feedback", "collaboration"]
+      "keywords": [
+        "sidecourt",
+        "publishing",
+        "drafts",
+        "portfolio",
+        "feedback",
+        "collaboration"
+      ]
     }
   ]
 }
