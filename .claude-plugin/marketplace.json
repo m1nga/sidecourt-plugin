@@ -1,0 +1,27 @@
+{
+  "name": "sidecourt",
+  "owner": {
+    "name": "SideCourt",
+    "email": "hello@sidecourt.space"
+  },
+  "metadata": {
+    "description": "SideCourt — post something you made, or ask for a hand with it. Connect it to the AI you already work in.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "sidecourt",
+      "source": "./",
+      "version": "1.0.0",
+      "description": "Work on your own SideCourt posts without leaving your editor: save a work or a request straight from what you just built, edit private drafts, read replies and help offers, and submit for review when you say so. It never publishes.",
+      "author": {
+        "name": "SideCourt"
+      },
+      "homepage": "https://sidecourt.space",
+      "repository": "https://github.com/m1nga/sidecourt-plugin",
+      "license": "MIT",
+      "category": "productivity",
+      "keywords": ["sidecourt", "publishing", "drafts", "portfolio", "feedback", "collaboration"]
+    }
+  ]
+}
