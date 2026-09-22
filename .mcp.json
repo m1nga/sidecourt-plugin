@@ -2,7 +2,7 @@
   "mcpServers": {
     "sidecourt": {
       "type": "http",
-      "url": "https://rwbwfokdipabwjparcwy.supabase.co/functions/v1/sidecourt-mcp/mcp"
+      "url": "https://mcp.sidecourt.space/mcp"
     }
   }
 }

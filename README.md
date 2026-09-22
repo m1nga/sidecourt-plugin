@@ -36,13 +36,13 @@ Try it: **"list my SideCourt posts"**.
 The connector on its own works anywhere that speaks MCP:
 
 ```
-claude mcp add --transport http sidecourt https://rwbwfokdipabwjparcwy.supabase.co/functions/v1/sidecourt-mcp/mcp
+claude mcp add --transport http sidecourt https://mcp.sidecourt.space/mcp
 ```
 
 Codex:
 
 ```
-codex mcp add sidecourt --url https://rwbwfokdipabwjparcwy.supabase.co/functions/v1/sidecourt-mcp/mcp
+codex mcp add sidecourt --url https://mcp.sidecourt.space/mcp
 codex mcp login sidecourt
 ```
 
@@ -94,3 +94,5 @@ website, by you.
 ## Licence
 
 MIT for this plugin's files. Works posted on SideCourt stay their authors'.
+
+The branded endpoint uses the same Sidecourt service with OAuth sign-in. Existing Supabase-address connections remain valid. When both the plugin and a Claude account connector use this same URL, supported Claude Code versions use one effective MCP connection. Updating from an older endpoint may require signing in once again.

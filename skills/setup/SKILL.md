@@ -46,13 +46,13 @@ Then they restart Claude Code, type `/mcp`, choose **sidecourt**, choose **Authe
 If the plugin route is not available, add just the connector:
 
 ```
-claude mcp add --transport http sidecourt https://rwbwfokdipabwjparcwy.supabase.co/functions/v1/sidecourt-mcp/mcp
+claude mcp add --transport http sidecourt https://mcp.sidecourt.space/mcp
 ```
 
 **Codex:**
 
 ```
-codex mcp add sidecourt --url https://rwbwfokdipabwjparcwy.supabase.co/functions/v1/sidecourt-mcp/mcp
+codex mcp add sidecourt --url https://mcp.sidecourt.space/mcp
 codex mcp login sidecourt
 ```
 
