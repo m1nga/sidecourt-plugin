@@ -1,10 +1,10 @@
 {
   "name": "sidecourt",
-  "displayName": "Sidecourt",
-  "version": "1.1.2",
-  "description": "Work on your own SideCourt posts without leaving your editor. It can list your posts, read and edit your private drafts (works and requests), create a new work, request or work + request as a private draft, add small files you choose, read replies and help offers, submit a version you confirmed, and read a public post by link to help. It never publishes, never replies as you, never accepts help for you, and never changes your account.",
+  "displayName": "SideCourt",
+  "version": "1.1.5",
+  "description": "Work on your own SideCourt Works without leaving your editor. Read and edit private drafts, create a Work with an optional Need, add small files you choose, read replies and help offers, and ask you to publish an exact version. If you allow it, it can also suggest changes to other people’s works (they decide) and make your own version of works that allow it. Find public Works by name or read them by link or SideCourt ID. It never publishes, never replies as you, never accepts help or suggestions for you, and never changes your account.",
   "author": {
-    "name": "Sidecourt"
+    "name": "SideCourt"
   },
   "homepage": "https://sidecourt.space",
   "repository": "https://github.com/m1nga/sidecourt-plugin",
