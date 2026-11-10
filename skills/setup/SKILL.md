@@ -21,7 +21,7 @@ Do exactly that, in this order.
 
 Call `sidecourt_list_works` before installing anything.
 
-- **It answers with their posts** → the connection exists. Keep it. Go to step 4.
+- **The list succeeds, including an empty list** → Read works for this connection. Keep it and go to step 4.
 - **It answers `SCOPE_DENIED`** for something they asked for (create, edit, upload,
   ask to publish, suggest changes, make your version) → the connection exists but was
   not given that action. Do **not** reconnect
@@ -90,9 +90,10 @@ Call `sidecourt_list_works` again and tell them, in four lines:
 3. **Permissions**: which of Read, Edit, Create, Upload, Ask to publish (earlier
    versions called it Submit), Suggest changes and Make your version this connection has,
    and which of the ones they asked for are missing (with the Add permissions path).
-4. **Next step**: an empty account → "tell me what you are making and I will save it as
-   a new private draft"; an account with posts → name the most recent draft and offer to
-   continue it or read what people replied.
+4. **Next step**: if the list is empty, say that this connection has no accessible
+   Works. Offer to read a public Work or explain how to start a private draft. Offer to
+   create a draft only if Create is available. If the list contains a draft, offer to
+   read it. If it contains published Works, offer to read the replies on one of them.
 
 ## 5. What you never do
 

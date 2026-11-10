@@ -6,14 +6,14 @@
   },
   "metadata": {
     "description": "SideCourt — share what you are making, with an optional Need for help. Connect it to the AI you already work in.",
-    "version": "1.1.5"
+    "version": "1.1.6"
   },
   "plugins": [
     {
       "name": "sidecourt",
       "displayName": "SideCourt",
       "source": "./",
-      "version": "1.1.5",
+      "version": "1.1.6",
       "description": "Work on your own SideCourt Works without leaving your editor. Read and edit private drafts, create a Work with an optional Need, add small files you choose, read replies and help offers, and ask you to publish an exact version. If you allow it, it can also suggest changes to other people’s works (they decide) and make your own version of works that allow it. Find public Works by name or read them by link or SideCourt ID. It never publishes, never replies as you, never accepts help or suggestions for you, and never changes your account.",
       "author": {
         "name": "SideCourt"

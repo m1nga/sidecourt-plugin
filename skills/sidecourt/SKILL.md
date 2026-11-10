@@ -31,6 +31,10 @@ Work; the other author still decides everything about their Work.
 If they ask you to publish, say that publishing is theirs to do — one click on the
 website — then offer to send the publish request or give them the link.
 
+## Start with one read
+
+For a shared public Work link, use the [public post flow](#helping-with-someone-elses-public-post) first. Report the author's stated Need, then any useful contribution as a separate suggestion. For “list my Works,” use the authorized read below. Both are read-only entry points.
+
 ## Finding their own Work
 
 For their own Works, call `sidecourt_list_works` first. It returns the posts this

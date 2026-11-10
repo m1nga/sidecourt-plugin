@@ -14,6 +14,11 @@ people's works (they decide) and make your own version of works that allow it.
 **It never publishes, never replies as you, never accepts help or suggestions for you,
 and never changes your account.** Those stay yours, on the website.
 
+## Try one read
+
+- **A public Work someone sent you.** Ask “Read this SideCourt Work and tell me what kind of help its author is asking for,” and include its link. Public Works are readable without signing into a SideCourt account. The assistant reports the author's Need separately from its own suggestions. [Browse public Works](https://sidecourt.space/drops/).
+- **Your own drafts.** After connecting, ask “List my SideCourt Works.” The default Read permission is enough. Seeing no accessible Works on a successful call is a valid first result.
+
 ## Install
 
 In Claude Code:
@@ -29,8 +34,6 @@ what the connection may do; keep the defaults if you are not sure.
 Or paste the one message from **SideCourt → Your Court → Your AI** into Claude Code or
 Codex: it reuses a connection you already have, installs only what is missing, lets you
 sign in and choose permissions in the browser, then checks the connection with you.
-
-Try it: **"list my SideCourt posts"**.
 
 ### Without the plugin
 
